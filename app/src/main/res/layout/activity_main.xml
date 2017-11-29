@@ -13,8 +13,4 @@
         android:layout_height="wrap_content"
         android:text="PATCH"
         android:onClick="onClick"/>
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="300dp"
-        android:background="@color/colorAccent"/>
 </LinearLayout>
